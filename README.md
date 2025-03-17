@@ -13,3 +13,16 @@ Numero di push minimo: 6
 
 Ricordatevi di spezzare il problema in sottoproblemi come visto a lezione nel file README.md
 Buon lavoro!
+
+//----------SCOMPONIAMO IL PROBLEMA----------
+//Definiamo la variabile che contiene il numero di km (valore) inserito dall'utente
+//Definiamo la variabile che contiene l'età del passeggero (valore) inserito dall'utente
+//Definiamo la variabile che contiene il prezzo del biglietto in base ai km
+//Definiamo la variabile che contiene il prezzo totale del biglietto
+//Definiamo la variabile che contiene il prezzo finale del biglietto per i minorenni
+//Definiamo la variabile che contiene il prezzo finale del biglietto per gli over 65
+
+//Calcoliamo il prezzo del biglietto in base ai km
+//Applicare uno sconto del 20% al prezzo finale del biglietto per i minorenni
+//Applicare uno sconto del 40% al prezzo finale del biglietto per gli over 65
+//Inserire in forma umana (con massimo due decimali) l'output del prezzo finale.
